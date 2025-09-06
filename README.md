@@ -6,6 +6,7 @@ It uses:
 + Binary pointers converted to Gray code to ensure safe cross-domain synchronization.
 + Two-flop synchronizers to mitigate metastability when passing pointer values between domains.
 + A one-slot-empty policy for full and empty flag generation.
++ EDA Playground Link: https://edaplayground.com/x/ZGij
 
 # Features
 Parameterizable data width (DATA_WIDTH) and FIFO depth (ADDR_WIDTH → depth = 2^ADDR_WIDTH).
