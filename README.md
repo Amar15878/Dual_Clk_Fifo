@@ -29,3 +29,4 @@ Safe handling of asynchronous domains using Gray-coded pointers.
 During simulation, transient X values appear on full_o shortly after reset deassertion:
 + Time=5000 | rd_data_o=0 | empty=1 | full=x
 + Time=23000 | rd_data_o=0 | empty=0 | full=x
+<img width="1055" height="450" alt="image" src="https://github.com/user-attachments/assets/97ea67e2-bfe5-423b-a221-478e9b158a49" />
